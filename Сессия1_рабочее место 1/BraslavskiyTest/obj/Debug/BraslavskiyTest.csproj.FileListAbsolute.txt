@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\bin\Debug\BraslavskiyTest.exe.config
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\bin\Debug\BraslavskiyTest.exe
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\bin\Debug\BraslavskiyTest.pdb
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.Form1.resources
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.Properties.Resources.resources
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.exe
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.pdb
+C:\Users\user\Desktop\LutsAirPort\BraslavskiyTest\obj\Debug\BraslavskiyTest.AdminPanel.resources
+Y:\Сессия1_рабочее место 1\BraslavskiyTest\obj\Debug\BraslavskiyTest.csproj.AssemblyReference.cache
+Y:\Сессия1_рабочее место 1\BraslavskiyTest\obj\Debug\BraslavskiyTest.exe
+Y:\Сессия1_рабочее место 1\BraslavskiyTest\obj\Debug\BraslavskiyTest.pdb
